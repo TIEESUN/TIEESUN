@@ -1,6 +1,6 @@
 <img hight="1000" width="1000" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlrM2htejcwa3h0b3BzNm9scmk2NHVkZm1meGFwbG9jaWIxOTgxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif">
 
- # Hello I'm Sawood  👋
+ # Hello I'm Sawood aka Inflammable Kid 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1yNjc0aXQwN2ozM2doZHdtcW96NXhuY2RieTQxNWN1ejNwYTVhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dVtsUCl5UAwrVZoCDc/giphy.gif">
