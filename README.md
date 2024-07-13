@@ -13,7 +13,7 @@
 
 # About ME 💬 :
 
-### - I'm 24 years old --> Cyber Threat Intel and Security Researcher.
+### - I'm 25 years old --> Cyber Threat Intel and Security Researcher.
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBta2FzaXVtZGZlbGVkaTZ2Mzd2ZGEyYnc2emlhZHNyZzd1a3B5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eV08lydIMcTftXX3vi/giphy.gif">
 
