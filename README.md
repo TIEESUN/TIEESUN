@@ -15,14 +15,22 @@
 <img hight="500" width="300" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBta2FzaXVtZGZlbGVkaTZ2Mzd2ZGEyYnc2emlhZHNyZzd1a3B5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eV08lydIMcTftXX3vi/giphy.gif">
 
 ### - Learning :
-- ✨ Threat Detection
-- ✨ Exploring defensive strategies against adversaries through proactive shield methodologies.
+✨ Threat Detection
+
+✨ Exploring defensive strategies against adversaries through proactive shield methodologies.
+
+✨ Proactively hunted adversaries, tracking and analyzing TTPs to preemptively secure organizational assets and strengthen strategic defences.
+
+✨ Conducted advanced threat intelligence analysis using MITRE ATT&CK, TheHive, and MISP, specializing in identifying and mitigating cyber threats through OSINT and digital investigations.
 
 ### - Hobbies : 
-- ✨ Valorant 
-- ✨ Watching Anime/Documentaries
-- ✨ Reading Books
-- ✨ Listening closely to people's stories, offering a helping hand and understanding.
+✨ Valorant 
+
+✨ Watching Anime/Documentaries
+
+✨ Reading Books
+
+✨ Listening to people's stories.
 
 </br>
 </br>
@@ -78,7 +86,7 @@
 <img hight="320" width="300" align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtkZDBnMTU4bHdkY3pxZDQ3djA3bHFwejFjdGF2NnMwaTRoeDVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufEAqdSsFBvkHzl7pT/giphy.gif">
 
 
-"If you want to reach out to me about anything or even if you have any Security Research ideas, just ping me. Also, if you're going through a hard time, don't hesitate to contact me. I'll listen to you—I'm all ears."🤝.
+"If you want to reach out to me about anything or even if you have any Security Research ideas, just ping me. Also, if you're having a hard time, don't hesitate to contact me. I'll listen to you—I'm all ears."🤝.
 
 <a href="mailto:muhammadsawood42@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
