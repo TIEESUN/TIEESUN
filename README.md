@@ -90,7 +90,7 @@
 <img hight="320" width="300" align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtkZDBnMTU4bHdkY3pxZDQ3djA3bHFwejFjdGF2NnMwaTRoeDVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ufEAqdSsFBvkHzl7pT/giphy.gif">
 
 
-"If you want to reach out to me about anything or even if you have any Security Research ideas, just ping me. Also, if you're having a hard time, don't hesitate to contact me. I'll listen to you—I'm all ears."🤝.
+"If you want to reach out to me about anything or even if you have any Security Research ideas, just ping me. Also, if you're having a hard time, don't hesitate to contact me. I'll listen to you, I'm all ears."🤝.
 
 <a href="mailto:muhammadsawood42@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
