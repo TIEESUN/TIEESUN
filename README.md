@@ -32,6 +32,8 @@
 
 ✨ Reading Books
 
+✨ Adversary Hunting.
+
 ✨ Listening to people's stories.
 
 </br>
