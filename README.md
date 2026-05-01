@@ -10,7 +10,7 @@
 
 # About ME 💬 :
 
-### - I'm 26 years old --> Cyber Threat Intelligence Analyst | Adversary Hunter | Security Researcher.
+### - I'm 27 years old --> Cyber Threat Intelligence Analyst | Adversary Hunter | Security Researcher.
 
 <img hight="500" width="300" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBta2FzaXVtZGZlbGVkaTZ2Mzd2ZGEyYnc2emlhZHNyZzd1a3B5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eV08lydIMcTftXX3vi/giphy.gif">
 
