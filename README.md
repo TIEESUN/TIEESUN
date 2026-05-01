@@ -32,9 +32,9 @@
 
 ✨ Reading Books
 
-✨ Adversary Hunting.
+✨ Adversary Hunting
 
-✨ Listening to people's stories.
+✨ Listening to people's stories
 
 </br>
 </br>
